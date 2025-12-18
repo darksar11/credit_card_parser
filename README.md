@@ -64,23 +64,17 @@ Built with React, TypeScript, Vite, Tailwind-style utility classes, `pdfjs-dist`
 
 ### Screenshots
 
-Create a folder for screenshots (optional but recommended):
+**Overview**
 
-- `docs/screenshots/`
-  - `overview.png` – main landing / upload view.
-  - `extraction.png` – extraction + OCR panels in action.
-  - `details.png` – right-side account and parsing details.
-
-Then you can embed them in this README, for example:
-
-```markdown
 ![Overview](docs/screenshots/overview.png)
-![Extraction modes](docs/screenshots/extraction.png)
-![Details](docs/screenshots/details.png)
-```
 
-> Note: The actual image files are not generated automatically.  
-> Save your UI screenshots as PNGs and place them in `docs/screenshots/` so they are tracked by git.
+**Extraction modes (text + OCR)**
+
+![Extraction modes](docs/screenshots/extraction.png)
+
+**Details / right-hand panels**
+
+![Details](docs/screenshots/details.png)
 
 ### Git & GitHub
 
