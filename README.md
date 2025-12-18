@@ -66,15 +66,15 @@ Built with React, TypeScript, Vite, Tailwind-style utility classes, `pdfjs-dist`
 
 **Overview**
 
-![Overview](docs/screenshots/overview.png)
+![Overview](docs/overview.png)
 
 **Extraction modes (text + OCR)**
 
-![Extraction modes](docs/screenshots/extraction.png)
+![Extraction modes](docs/extraction.png)
 
 **Details / right-hand panels**
 
-![Details](docs/screenshots/details.png)
+![Details](docs/details.png)
 
 ### Git & GitHub
 
